@@ -301,7 +301,7 @@ A 1st-order plurality shall refer to a ratio of at least
 $1 - \frac{1 + \sqrt{5}}{2}^{-1}$,
 a 2nd-order plurality shall refer to a ratio of at least
 $1 - \frac{1 + \sqrt{5}}{2}^{-2}$,
-and a 2nd-order plurality shall refer to a ratio of at least
+and a 3rd-order plurality shall refer to a ratio of at least
 $1 - \frac{1 + \sqrt{5}}{2}^{-3}$.
 
 ## Directives
@@ -382,7 +382,7 @@ represent the League in international forums,
 enter treaties and other agreements with other nations,
 and levy tariffs.
 
-Subject to a Directive of the Councils which declares ware,
+Subject to a Directive of the Councils declaring war,
 the President shall have the authority to
 establish embargoes on foreign states,
 and command all national armed forces
