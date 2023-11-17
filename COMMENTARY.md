@@ -301,7 +301,7 @@ their localized defense.
 
 Unlike other "supreme courts",
 the Constitutional Court only has jurisdiction
-for constitutional matters.
+on constitutional matters.
 This follows naturally from
 a sort of legal application of the "rule of least power"
 and distributed governance in general.
