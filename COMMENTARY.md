@@ -176,7 +176,7 @@ It aligns incentives perfectly.
 And what about public spending?
 This is a tricky one.
 In theory there are public works which
-either benefit everyone more than their cost
+benefit everyone more than their cost
 and could not be easily provided
 at a more granular level than the city.
 Consider parks, walkways, and city defense.
@@ -184,7 +184,7 @@ Yet there is a risk that by spending on any project,
 there will be some citizen's who
 do not value that benefit as much as others.
 In any case the government is still incentivized
-to provide its works efficiently (raises rents by more than the works cost)
+to provide its works efficiently (raises rents by more than the works cost),
 and thus it should not actually decrease
 the size of the citizen's dividend for these citizens.
 But the cost will still be borne in higher rents.
@@ -193,6 +193,7 @@ A further risk is the possibility of cronyism.
 The greater the mandate for a government body
 to decide how resources are to be used,
 the greater the threat of special interests
+(which benefit not even a majority)
 finding a way to subvert the democratic value of the spend.
 
 At the same time,
@@ -216,7 +217,9 @@ For these purposes, and to support
 a healthy degree of experimentation in the provisioning of public goods,
 the City does retain a power to spend.
 It is nonetheless intended that such power be
-strongly checked by the citizen's dividend.
+strongly checked by the citizen's dividend
+and furthermore a moderate super-majority
+ought to be preferred for matters of public spending.
 
 ### 3. Naturalization & open borders
 
@@ -247,7 +250,7 @@ and local communities.
 
 ### Defense & national sovereignty
 
-The power for the league to defend
+The power for the League to defend
 its constituent lands and people against foreign threats
 is at once the most incidental and the most fundamental of powers.
 
@@ -263,7 +266,7 @@ in order to both defend itself from larger state-like actors
 and to enfranchise its constituent sovereigns
 in the greater political sphere.
 In this sense it is a power made necessary
-only by the imperfection of the greater political order.
+only by the imperfection of the wider global political order.
 
 On the other hand,
 were this not a necessary power to grant the League,
