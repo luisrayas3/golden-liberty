@@ -71,6 +71,34 @@ recognizing both the individual right to self-ownership
 and the common right of all individuals to make use of
 land and its natural opportunities.
 
+### Why city-sized polities?
+
+There are many reasons why city-sized governments.
+
+The first is simply empirical observation.
+From village elders to city-states and other modern cities,
+city-sized polities are ubiquitous in history.
+Other sized polities, though they may be common,
+are rarely as universal.
+It would be unwise to ignore this.
+
+The next is a matter of understanding the lives humans lead.
+A person tends to live in a greater city area;
+they may work and reside in different parts,
+they may recreate in yet another part,
+but all tends to happen within the borders
+of a single city region.
+
+Finally, there is in fact a mathematical foundation
+underpinning value of a city as a unit.
+Building on the "Henry George Theorem", one can see that
+a centrally located "nexus" of community (a city center)
+radiates land value in a way that gives each city a natural size.
+Drawing polities along the lines of these effective nexuses
+is a natural thing which connects
+the intrinsic economic value network
+with the political network.
+
 ## What makes a City?
 
 To be considered a legitimate and just steward of land,
@@ -157,7 +185,7 @@ voting-based methods of distributing the rent
 in the matter of giving power people.
 
 In short, by our original justifications,
-the rent belogs directly to the people,
+the rent belongs directly to the people,
 not to the collective.
 
 There is a distinct practical advantage too:
