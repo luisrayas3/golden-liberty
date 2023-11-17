@@ -1,10 +1,16 @@
 # Commentary on the Golden Liberty constitution
 
-## Prelude
+Legal concepts are technologies with a surprising amount of power.
+But if the concepts themselves,
+or the principles with which they are combined,
+are not rooted in a rock-solid moral foundation
+_as well as_ rock-solid practical foundations,
+we should not be surprised if they yield
+undesirable outcomes and unintended side-effects.
 
-<!-- See manifesto in notes -->
-* Explicit social contract
-* Moral soundness of base principles
+To this end, this commentary strives to justify
+the major aspects of the Constitution of Golden Liberty
+on a first-principles basis.
 
 ## Why constitutional land trusts (Cities)?
 
@@ -118,34 +124,126 @@ it is better than all other forms that have been tried.
 
 ### 1. Individual sovereignty
 
+This principle simply declares that
+the fairly well-accepted principle of self-ownership applies.
+Without individual sovereignty,
+some other political entity must necessarily
+reign as master over the individual.
+Such an arrangement, no matter how well intentioned,
+no matter how carefully designed,
+is intrinsically a vehicle for the abuse of power.
+It cannot be allowed in a free society.
+
 ### 2. Ground rent and the citizen's dividend
 
-* Ensure there is no incentive to spend collected rent on special interests.
+The collection of ground rent is well-understood by Georgists and geoists
+to be an economically-wise manner of breaking up land monopoly
+inherent in systems with absolute property in land.
+This is the first step in ensuring equal access
+to the natural opportunities of the earth.
 
-* By original justifications, the rent belongs directly to the people,
-  not to the collective.
+But what to do with the collected rent?
+In order to truly provide equal opportunity
+it is necessary to distribute the rent back to citizens.
+If this is done maximally,
+that is 100% of the rent is returned as a citizen's dividend,
+it has the effect of distributing land values
+exactly equally amongst all citizens.
+It also bestows individuals with the maximum liberty
+to decide how to use that captured value,
+in essence, their share of the land.
+Such a system is superior to other
+voting-based methods of distributing the rent
+in the matter of giving power people.
 
-* "Public" spending could much more plausibly be realized in the private market.
-  * People are getting a dividend which they can part with
-    easier than they can a part of their paycheck.
-  * Eminent domain is not necessary.
+In short, by our original justifications,
+the rent belogs directly to the people,
+not to the collective.
 
-On the other hand, the power to spend:
-* We should allow some experimentation
-  with the provisioning of public goods.
-* With a citizen's dividend,
-  the incentive for everyone is actually for efficient government.
-But of course:
-* There is always the possibility of cronyism!
-* There is the possibility of tyranny of the majority as well:
-  some improvements to land will not be seen
-  as improvements to everyone equally.
+There is a distinct practical advantage too:
+it provides a strong check against
+the City spending the collected rent on special interests.
+Citizen's can in fact measure the quality of their government
+meaningfully and quantitatively
+by the magnitute of the citizen's dividend.
+The value a government does provide,
+whether due to its fair jurisdiction or its public works,
+manifests itself in land values and ultimately in the ground rent,
+whereas the cost of government comes
+directly out of what otherwise would be the citizen's dividend.
+It aligns incentives perfectly.
+
+And what about public spending?
+This is a tricky one.
+In theory there are public works which
+either benefit everyone more than their cost
+and could not be easily provided
+at a more granular level than the city.
+Consider parks, walkways, and city defense.
+Yet there is a risk that by spending on any project,
+there will be some citizen's who
+do not value that benefit as much as others.
+In any case the government is still incentivized
+to provide its works efficiently (raises rents by more than the works cost)
+and thus it should not actually decrease
+the size of the citizen's dividend for these citizens.
+But the cost will still be borne in higher rents.
+
+A further risk is the possibility of cronyism.
+The greater the mandate for a government body
+to decide how resources are to be used,
+the greater the threat of special interests
+finding a way to subvert the democratic value of the spend.
+
+At the same time,
+where a citizen's dividend is maximized
+it becomes much more plausible that
+"public" works could be financed privately.
+How so? People are generous when they can be.
+In a world where improvements to one's community
+benefit a person directly and financially
+in the form of a higher citizen's dividend,
+and people are not burdened by taxes on their production
+nor the "tax" of land monopoly,
+it is not unreasonable to imagine that
+voluntary donations to public works such as parks would thrive.
+
+Ultimately, the city does need *some* resources,
+if not to at least carry out collection and distribution of rent.
+City defense and an arbitration or judicial system for its affairs
+also are strictly necessary to the establishment of a city.
+For these purposes, and to support
+a healthy degree of experimentation in the provisioning of public goods,
+the City does retain a power to spend.
+It is nonetheless intended that such power be
+strongly checked by the citizen's dividend.
 
 ### 3. Naturalization & open borders
 
+Without open borders,
+the promise of equality under the law
+and equal opportunity are hollow.
+This is self-evident, if sometimes forgotten.
+
 ### 4. Common defense & national sovereignty
 
+If a city is not defended, it ceases to exist.
+This principle is explored further below
+at the level of the League as a whole.
+
 ## Powers & responsibilities of the League
+
+All powers granted to the League
+are granted for the sole purposes
+of protecting its Cities' land and Citizens from large-scale threats
+and ensuring a fair application of the standards of justice
+set forth in the Constitution.
+
+No other purpose should be recognized for the League.
+To do so would create a power leak
+in which a collective exercises an unjust power
+over the sovereignty of the individual
+and local communities.
 
 ### Defense & national sovereignty
 
@@ -199,12 +297,19 @@ on the power of the national armed forces.
 The intent of the Militias is first and foremost
 their localized defense.
 
-# Establishment of the League
+### Court for constitutional issues
 
-> Why should cities join together?
+Unlike other "supreme courts",
+the Constitutional Court only has jurisdiction
+for constitutional matters.
+This follows naturally from
+a sort of legal application of the "rule of least power"
+and distributed governance in general.
+There really is no justification for
+this court to consider any civil or criminal matters,
+as it is outside of the scope for the League to begin with.
 
-All powers granted to the League
-are granted for the sole purpose
-of protecting its Cities' land and its Citizens
-and ensuring a fair application of the standards of justice
-set forth in the Constitution.
+That said, an established method for arbitration
+when matters of the constitution are under question
+is strictly a necessity.
+This is the (only) mandate of the court.
