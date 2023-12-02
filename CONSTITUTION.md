@@ -304,12 +304,13 @@ a particular plurality of the rendered votes in favor
 to pass the motion in question.
 These pluralities are defined by an ordinal number
 corresponding to the ratio required to pass.
-A 1st-order plurality shall refer to a ratio of at least
-$1 - \frac{1 + \sqrt{5}}{2}^{-1}$,
-a 2nd-order plurality shall refer to a ratio of at least
-$1 - \frac{1 + \sqrt{5}}{2}^{-2}$,
-and a 3rd-order plurality shall refer to a ratio of at least
-$1 - \frac{1 + \sqrt{5}}{2}^{-3}$.
+Provided the golden ratio $\phi = \frac{1 + \sqrt{5}}{2}$
+A 1st-order plurality shall indicate
+a ratio of at least $1 - \phi^{-1} \approx 38.2%$,
+a 2nd-order plurality shall indicate
+a ratio of at least $1 - \phi^{-2} \approx 61.8%$,
+and a 3rd-order plurality shall indicate
+a ratio of at least $1 - \phi^{-3} \approx 76.4%$.
 
 ## Directives
 
