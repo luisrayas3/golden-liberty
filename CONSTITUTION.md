@@ -160,6 +160,13 @@ against parties wishing to
 make exclusive use of such natural opportunities
 and willing to pay its rent.
 
+The collection of rent on a City's lands
+shall not be made to construe
+a notion of a City's ownership over the land.
+Instead, the City shall be understood to be
+only the steward of its lands
+for the benefit of its Citizen's.
+
 ## Power to spend
 
 Cities may allocate,
@@ -171,7 +178,7 @@ and to provide for the commons, common services, and common infrastructure.
 For the purposes of accounting
 and allowing for the fair competition of alternative uses,
 Cities shall fairly compete for,
-and pay the appropriate rent for,
+and pay the prevailing ground rent for,
 all land and natural opportunities
 they wish to allocate to such common purposes.
 
