@@ -282,12 +282,12 @@ one or more forums
 and restrict participation in each of those forums
 to Citizens having a minimum number of delegated votes.
 
-## Election of the Council of Cities
+## Representation in the Council of Cities
 
-Each City shall select one representative
+Each City shall appoint one representative
 to the Council of Cities.
 
-The process by which a City selects its representative
+The process by which a City appoints its representative
 shall be the prerogative of each City,
 provided such process be consistent with the principles of republicanism.
 However, such process shall be documented, made public,
