@@ -467,13 +467,13 @@ the highest office in the Ministry of the Treasury,
 and shall be elected by an approval vote of the Citizens
 and confirmed by a 1st-order plurality vote of the Council of Cities.
 
-### Collection of rent
+### Collection of rent allocated to the League
 
 The Ministry of the Treasury shall,
 subject to a Directive of the Councils,
-collect annually a proportion of the rent collected by each City.
+collect annually a proportion of the ground rent collected by each City.
 Such proportion shall be equal amongst the Cities
-and a Directive only specifying this proportion shall pass
+and a Directive specifying only this proportion shall pass
 with a 2nd-order plurality vote of the Council of Citizens
 and a 1st-order plurality vote of the Council of Cities.
 
