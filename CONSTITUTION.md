@@ -396,7 +396,8 @@ establish embargoes on foreign states,
 and command all national armed forces
 for the defense of the parties of the League.
 
-The President shall have the duty and power
+Provided resources allocated by the Councils,
+the President shall have the duty and power
 to establish the forces, armed and unarmed,
 necessary for the execution of these responsibilities.
 
