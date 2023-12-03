@@ -18,6 +18,8 @@ The League shall acknowledge and affirm
 all inherent natural rights
 belonging to each and every individual.
 
+### Principle of equal treatment under the law
+
 All persons,
 regardless of place of origin,
 opinions or religious beliefs held publicly or privately,
@@ -25,6 +27,8 @@ or arbitrary physical attribute,
 shall be treated equally,
 with dignity and respect,
 under the law.
+
+### Principle of self-ownership and equal opportunity
 
 All persons are the owners over their entire person
 and the products of their labors.
@@ -37,6 +41,8 @@ which neither threatens or commits violence against, nor defrauds another.
 All persons have an equal natural right
 to move about the earth,
 and to make use of the natural opportunities which it provides.
+
+### Principle of self-defense and restitution
 
 All persons have the inherent and natural right
 to adequately defend themselves from transgressions,
@@ -65,7 +71,7 @@ which offends a reasonable sense of justice.
 
 # II: Cities
 
-## Naturalization of Cities
+## Accession of Cities to the League
 
 No City,
 having demonstrated the capacity and willingness
@@ -95,6 +101,48 @@ to any party in the League;
 and the League and its constituents
 shall reserve all rights to seek repairs.
 
+## Naturalization of Citizens to Cities
+
+Cities shall provide for the naturalization of their Citizens
+without discriminating in any way contradictory to
+the principle of equal treatment under the law.
+
+Cities may require a minimum age for naturalization,
+but such requirement shall be no greater than 20 years of age.
+
+Cities may require for naturalization
+residency within the City for a minimum period,
+but must not require more than 7 years of continuous residency.
+
+Cities may require for naturalization
+a demonstration of civic competence,
+but must provide a limited exemption
+for persons with cognitive or physical impairments.
+
+Cities may require for naturalization
+a commitment to periodically serve as a juror
+in its courts or the courts it regulates,
+though such commitment shall be waived
+for those exempted from civic competence,
+and Cities may provide an optional exemption
+which waives this commitment
+by forgoing all or part of the Citizen's dividend.
+
+Cities shall provide titular citizenship
+for the children of its Citizens
+and minors meeting the City's residency requirement,
+which confers no obligations nor privileges
+excepting the privilege of passport.
+Cities may annul titular Citizenship
+for those more senior than a prescribed age,
+which shall be no less than 1 year more than
+the minimum age to attain full Citizenship,
+and who have not yet elected to attain full Citizenship.
+
+Cities shall not compel citizenship for its residents,
+and Citizens shall be naturalized
+only by their own volition, with soundness of mind.
+
 ## Republican and transparent government
 
 Cities shall recognize
@@ -106,7 +154,9 @@ The administration of a City's powers and duties
 shall be carried out only by officers
 chosen, directly or indirectly, by the Citizens of the City.
 Cities must provide equal opportunity for suffrage
-to all of its Citizens.
+to all of its Citizens,
+excepting those exempted from
+demonstrating civic competence or jury service.
 
 All bodies and processes comprising a City's government,
 inclusive of its executive and administrative offices,
@@ -119,10 +169,6 @@ by the Ministry of Accountability.
 
 Cities shall have the duty to establish or regulate
 courts which uphold the rights of accused persons.
-
-Cities shall have the authority to compel its Citizens
-to periodically serve on the juries of
-its courts, or the courts which it regulates.
 
 ## Militias
 
@@ -191,6 +237,12 @@ not otherwise allocated by the City's most representative house,
 nor allocated to the League,
 shall be returned in equal shares to its Citizens.
 
+Cities may except non-resident Citizens
+from being party to the dividend,
+but only after a grace period
+no less than the duration of
+the minimum residency requirement for naturalization.
+
 ## Establishment of money
 
 Cities may coin and regulate or choose the money
@@ -217,7 +269,7 @@ thereby subverting the status of the League as a nation.
 
 # III: Citizens
 
-## Naturalization
+## Naturalization to the League
 
 No person,
 having met the requirements set forth in this Constitution,
@@ -230,9 +282,6 @@ renouncing their Citizenship with the League at any time.
 All Citizens must be of no less than the age of 16.
 
 All Citizens must pass a constitutional competence examination
-unless excused on account of incapacity.
-
-All Citizens must be in good standing as a juror
 unless excused on account of incapacity.
 
 All Citizens must be Citizens of a City in the League
@@ -256,7 +305,6 @@ and otherwise unallocated by the Councils.
 
 All Citizens shall have suffrage within the League
 excepting those excused from constitutional competence
-or their duty as a juror
 on account of incapacity.
 
 # IV: Councils of the League
@@ -441,9 +489,10 @@ and confirmed by a 1st-order plurality vote of the Council of Cities.
 The Ministry of Civic Affairs shall,
 subject to the provisions of this Constitution
 and the Directives of the Councils,
-administer the naturalization of Cities and Citizens
+administer the accession of Cities to the League and
+the naturalization of Citizens to the League,
 and issue passports and other legal documentation
-declaring the state of its constituents as necessary.
+declaring the status of its constituents as necessary.
 
 ### Conduct of elections
 
