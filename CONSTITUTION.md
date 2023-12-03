@@ -198,7 +198,7 @@ adjacent and surrounding areas
 but have been typically found not to
 warrant criminal charges nor civil restitution.
 
-Cities shall have the natural authority to restrict and regulate
+Cities shall maintain the inherent authority to restrict and regulate
 activities conducted on the commons they provide.
 
 ## Collection of natural rent
