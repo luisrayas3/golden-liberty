@@ -97,8 +97,10 @@ shall reserve all rights to seek repairs.
 
 ## Republican and transparent government
 
-Cities shall recognize the popular sovereignty
-of each of its Citizens.
+Cities shall recognize
+the individual sovereignty of all people over themselves
+and the popular sovereignty of its Citizens
+over the land it stewards.
 
 The administration of a City's powers and duties
 shall be carried out only by officers
