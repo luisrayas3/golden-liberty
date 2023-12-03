@@ -49,10 +49,16 @@ to adequately defend themselves from transgressions,
 or enlist an agent to so on their behalf,
 and to seek appropriate remunerative or punitive damages
 for those which are committed.
+As such, a person transgressing
+against the natural rights of another
+may forfeit their rights
+as indicated for the exercise of self-defense
+or necessary the post-facto application of justice.
 
 ## Rights of the accused
 
-Any person accused of transgressing against the rights of another
+Any person accused of transgressing
+against the natural rights of another
 shall be presumed innocent until and unless proven guilty
 beyond a reasonable doubt
 by a jury of their citizen peers
