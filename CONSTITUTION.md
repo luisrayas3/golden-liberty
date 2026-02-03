@@ -1,22 +1,23 @@
 # Preamble
 
 Whereas all persons are born into a natural state of freedom,
-and whereas all persons are entitled to complete ownership over their entire selves,
-and whereas all persons are entitled to equally access natural opportunities,
-and whereas greater human organization is desirable for the common advantage
-and general advancement of humankind,
+possessing an agency neither granted nor revocable,
+and whereas persons recognizing this agency in themselves
+rationally extend the same recognition to others,
+and whereas agents of comparable standing would agree
+to share nature's advantages equally
+while claiming fully the fruits of their own efforts,
 we establish the Golden Liberty League of Cities and Citizens
-for as long as it supports and ensures
-a free, just, and peaceful society
-in accord with these truths.
+for as long as it serves
+a free, just, and peaceful society for its members.
 
 # I: Natural persons
 
-## Rights of all persons
+## Principles regarding all persons
 
-The League shall acknowledge and affirm
-all inherent natural rights
-belonging to each and every individual.
+The League affirms that all persons possess agency,
+the capacity to choose and act,
+and shall uphold the following principles accordingly:
 
 ### Principle of equal treatment under the law
 
@@ -28,37 +29,35 @@ shall be treated equally,
 with dignity and respect,
 under the law.
 
-### Principle of self-ownership and equal opportunity
+### Principle of sovereignty and equal opportunity
 
-All persons are the owners over their entire person
-and the products of their labors.
-All persons are naturally free
+All persons, possessing agency, are sovereign over their entire person
+and the products of their efforts.
+All persons are free
 to pursue their own happiness and prosperity,
 voluntarily associate with others for any mutual end,
 express themselves through speech, writing, or any other media,
 and engage in any other behavior
-which neither threatens or commits violence against, nor defrauds another.
-All persons have an equal natural right
-to move about the earth,
-and to make use of the natural opportunities which it provides.
+which neither threatens nor commits violence against, nor defrauds another.
+All persons have equal claim
+to move about the earth
+and to make use of the natural opportunities it provides.
 
 ### Principle of self-defense and restitution
 
-All persons have the inherent and natural right
+All persons have the capacity and prerogative
 to adequately defend themselves from transgressions,
-or enlist an agent to so on their behalf,
+or enlist an agent to do so on their behalf,
 and to seek appropriate remunerative or punitive damages
 for those which are committed.
-As such, a person transgressing
-against the natural rights of another
-may forfeit their rights
-as indicated for the exercise of self-defense
-or necessary the post-facto application of justice.
+As such, a person transgressing against another
+may forfeit certain protections
+as necessary for the exercise of self-defense
+or the post-facto application of justice.
 
-## Rights of the accused
+## Protections for the accused
 
-Any person accused of transgressing
-against the natural rights of another
+Any person accused of transgressing against another
 shall be presumed innocent until and unless proven guilty
 beyond a reasonable doubt
 by a jury of their citizen peers
@@ -86,8 +85,8 @@ its responsibilities under this Constitution,
 shall be barred entry to the League.
 
 Cities shall be admitted into the League
-if such is demanded by
-a popular vote of the candidate City's inhabitants
+if such is demanded
+by a popular vote of the candidate City's inhabitants
 and with the consent of a 1st-order plurality vote
 from both Councils of the League
 affirming the fitness of the City
@@ -98,7 +97,7 @@ its obligations under this Constitution,
 its membership may be revoked
 by a Directive of the Councils.
 
-## Right to secession
+## Freedom to secede
 
 No City shall be prohibited from seceding
 from the League for any reason.
@@ -114,7 +113,7 @@ without discriminating in any way contradictory to
 the principle of equal treatment under the law.
 
 Cities may require a minimum age for naturalization,
-but such requirement shall be no greater than 20 years of age.
+but such requirement shall be no greater than 21 years of age.
 
 Cities may require for naturalization
 residency within the City for a minimum period,
@@ -161,20 +160,19 @@ shall be carried out only by officers
 chosen, directly or indirectly, by the Citizens of the City.
 Cities must provide equal opportunity for suffrage
 to all of its Citizens,
-excepting those exempted from
-demonstrating civic competence or jury service.
+excepting those exempted from demonstrating
+civic competence or jury service.
 
 All bodies and processes comprising a City's government,
 inclusive of its executive and administrative offices,
-treasury, electoral processes, etc.
-administration, enforcement bodies, etc.
+treasury, electoral processes, administration, enforcement bodies, etc.
 shall be subject to audit
 by the Ministry of Accountability.
 
 ## Courts
 
 Cities shall have the duty to establish or regulate
-courts which uphold the rights of accused persons.
+courts which uphold the protections for accused persons.
 
 ## Militias
 
@@ -194,9 +192,9 @@ representing such consensus.
 Cities shall have the authority to restrict and regulate
 any activity within its borders
 which patently and directly disturbs
-adjacent and surrounding areas
-but have been typically found not to
-warrant criminal charges nor civil restitution.
+adjacent and surrounding properties
+but have been typically found
+not to warrant criminal charges nor civil restitution.
 
 Cities shall maintain the inherent authority to restrict and regulate
 activities conducted on the commons they provide.
@@ -227,7 +225,8 @@ Cities may allocate,
 at the discretion of its most representative council,
 a portion of the natural rent collected
 for the purposes of executing its duties,
-and to provide for the commons, common services, and common infrastructure.
+and to provide for the commons,
+common services, and common infrastructure.
 
 For the purposes of accounting
 and allowing for the fair competition of alternative uses,
@@ -257,7 +256,7 @@ and the distribution of the Citizen's dividend.
 Any currency minted by the City for such purposes
 must only enter circulation through the Citizen's dividend.
 
-Cities may not regulate the monies used for other purposes.
+Cities may not however regulate the monies used for other purposes.
 
 ## Harboring fugitives
 
@@ -317,7 +316,7 @@ on account of incapacity.
 
 The authority of all offices of the League
 being derived exclusively from the delegation
-of the natural authorities of its Citizens and Cities,
+of the inherent authority of its Citizens and Cities,
 the power and duty to direct and supervise
 the various offices of the League
 is vested in the two Councils of the League,
@@ -345,7 +344,8 @@ to the Council of Cities.
 
 The process by which a City appoints its representative
 shall be the prerogative of each City,
-provided such process be consistent with the principles of republicanism.
+provided such process be consistent with
+the principles of republicanism.
 However, such process shall be documented, made public,
 and be subject to audit and review
 by the Ministry of Accountability.

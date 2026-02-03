@@ -12,9 +12,33 @@ To this end, this commentary strives to justify
 the major aspects of the Constitution of Golden Liberty
 on a first-principles basis.
 
+## The egoist foundation
+
+Golden Liberty does not rest on appeals to transcendent moral truths
+or divinely-granted rights.
+It rests on a single observation: you have agency.
+You can choose and act.
+This is not a right granted to you, nor one that can be revoked;
+it is simply the condition of being a conscious actor.
+
+From this, all else follows.
+A person who recognizes their own agency,
+and wishes to be free to exercise it,
+rationally extends the same recognition to others,
+not from altruism,
+but from the understanding that any arrangement denying agency to others
+cannot credibly secure it for oneself.
+
+Voluntary cooperation among self-interested agents,
+each pursuing their own advantage,
+produces outcomes superior to what any could achieve alone,
+and vastly superior to what coercion and conflict yield.
+The League exists because it serves its members.
+The moment it ceases to do so, the rational agent withdraws.
+
 ## Why constitutional land trusts (Cities)?
 
-The core tenet behind Golden Liberty is the recognition of
+A core tenet behind Golden Liberty is the recognition of
 the central role land plays in human organization.
 Respecting this foundational role of land,
 Golden Liberty bases its political organism around the same.
@@ -60,15 +84,15 @@ On the contrary, public organization
 in any other aspect of human association
 besides management of the commons
 (land and the natural opportunities therein)
-violates individual self-ownership,
+violates individual sovereignty,
 which is nothing to say of its abysmal track record
 for producing peace or prosperity.
 
 A constitutional land trust is therefore
 a sovereign steward of its lands which
 upholds a standard of justice on those lands
-recognizing both the individual right to self-ownership
-and the common right of all individuals to make use of
+recognizing both individual sovereignty
+and the equal claim of all to
 land and its natural opportunities.
 
 ### Why city-sized polities?
@@ -111,9 +135,9 @@ exactly those which make for a just claim on land.
 
 0. At inception, a city can only be established by consensus of its residents.
 
-1. The principle of individual self-ownership,
-  that is the sovereignty of independent persons
-  and their rights to life, liberty, and the fruits of their labor,
+1. The principle of individual sovereignty,
+  that is the agency of independent persons
+  over themselves and the fruits of their efforts,
   must be recognized within the jurisdiction.
 
 2. The city must collect ground rent
@@ -153,7 +177,7 @@ it is better than all other forms that have been tried.
 ### 1. Individual sovereignty
 
 This principle simply declares that
-the fairly well-accepted principle of self-ownership applies.
+individual sovereignty, rooted in agency, applies.
 Without individual sovereignty,
 some other political entity must necessarily
 reign as master over the individual.

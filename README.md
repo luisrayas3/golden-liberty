@@ -12,9 +12,11 @@ Golden Liberty is first and foremost a model constitutional framework
 which synthesizes a number of philosophies
 and political and economic theories, including:
 
-1. Individual self-ownership.
-2. Voluntarism: Government, and all human association
-  is established under an explicit contract.
+1. Individual agency: Each person possesses the capacity to choose and act,
+  from which sovereignty over oneself and one's efforts follows.
+2. Voluntarism: Agents cooperate and form governance
+  when doing so serves their interests;
+  all association is by explicit agreement.
 3. Geoism: the unique role of land in social organization
   and economic justice is recognized
   and makes the foundation for establishing governance.
